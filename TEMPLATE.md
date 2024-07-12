@@ -1,7 +1,7 @@
 <img align="left" src="/kaneda.gif" style="margin-right: 20px; width: 80%;">
 
-📊 GitHub Stats:<br>
-&#160; Account age: {{ ACCOUNT_AGE }}<br>
+📊 GitHub Stats:<br><br>
+Account age: {{ ACCOUNT_AGE }}<br>
 Commits: {{ COMMITS }}<br>
 Repositories: {{ REPOSITORIES }}<br>
 Stars: {{ STARS }}<br>
