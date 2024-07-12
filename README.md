@@ -1,17 +1,14 @@
-<img align="left" src="/kaneda.gif">
-
+<img align="left" src="/kaneda.gif"><br>
 
 Hi, my name is __Nedd__, a __DevOps Engineer__. Here are some stats:
 
-<br>
-
 - Account age: 2
-- Commits: 2578
+- Commits: 2580
 - Repositories: 87
 - Stars: 17
 - Pull requests: 92
 
-
+<br>
 
 # 💫 About Me:
 📈 I'm currently working as a DevSecOps<br>💪🏽 Focusing on collaborate with Open Source projects<br>🌱 I’m currently learning about Cloud and Backend<br>🦀 Rust lover ❤️<br>⚡ Find me doing kickflips on the streets!<br><br>
