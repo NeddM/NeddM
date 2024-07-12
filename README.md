@@ -1,12 +1,11 @@
 <img align="left" src="/kaneda.gif" style="margin-right: 20px; width: 80%;">
 
-Hi, I'm a __DevOps Engineer__. Here are some stats:
-
-- Account age: 2
-- Commits: 2582
-- Repositories: 87
-- Stars: 17
-- Pull requests: 92
+📊 GitHub Stats:
+&#160; Account age: 2
+Commits: 2584
+Repositories: 87
+Stars: 17
+Pull requests: 92
 
 <br>
 
