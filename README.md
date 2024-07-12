@@ -1,9 +1,9 @@
-<img align="left" src="/kaneda.gif"><br>
+<img align="left" src="/kaneda.gif" style="margin-right: 20px; width: 80%;">
 
-Hi, my name is __Nedd__, a __DevOps Engineer__. Here are some stats:
+Hi, I'm a __DevOps Engineer__. Here are some stats:
 
 - Account age: 2
-- Commits: 2580
+- Commits: 2582
 - Repositories: 87
 - Stars: 17
 - Pull requests: 92
