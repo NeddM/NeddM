@@ -1,6 +1,6 @@
-<img align="left" src="/kaneda.gif"><br>
+<img align="left" src="/kaneda.gif" style="margin-right: 20px; width: 80%;">
 
-Hi, my name is __Nedd__, a __DevOps Engineer__. Here are some stats:
+Hi, I'm a __DevOps Engineer__. Here are some stats:
 
 - Account age: {{ ACCOUNT_AGE }}
 - Commits: {{ COMMITS }}
