@@ -1,12 +1,13 @@
 <img align="left" src="/kaneda.gif" style="margin-right: 20px; width: 80%;">
 
-📊 GitHub Stats:
+📊 GitHub Stats:<br>
 &#160; Account age: {{ ACCOUNT_AGE }}
 Commits: {{ COMMITS }}
 Repositories: {{ REPOSITORIES }}
 Stars: {{ STARS }}
 Pull requests: {{ PULL_REQUESTS }}
 
+<br>
 <br>
 
 # 💫 About Me:
