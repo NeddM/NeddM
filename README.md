@@ -1,4 +1,4 @@
-<img text-align="center" src="/kaneda.gif"><br>
+<img text-align="center" src="https://i.pinimg.com/originals/4b/29/ac/4b29ac154bbe9c684b0eb8ed0d0c46ee.gif"><br>
 
 # 💫 About Me:
 📈 I'm currently working as a DevSecOps<br>💪🏽 Focusing on collaborate with Open Source projects<br>🌱 I’m currently learning about Cloud and Backend<br>🦀 Rust lover ❤️<br>⚡ Find me doing kickflips on the streets!<br><br>
