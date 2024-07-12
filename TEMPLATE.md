@@ -1,9 +1,6 @@
-<img align="left" src="/kaneda.gif">
-
+<img align="left" src="/kaneda.gif"><br>
 
 Hi, my name is __Nedd__, a __DevOps Engineer__. Here are some stats:
-
-<br>
 
 - Account age: {{ ACCOUNT_AGE }}
 - Commits: {{ COMMITS }}
@@ -11,7 +8,7 @@ Hi, my name is __Nedd__, a __DevOps Engineer__. Here are some stats:
 - Stars: {{ STARS }}
 - Pull requests: {{ PULL_REQUESTS }}
 
-
+<br>
 
 # 💫 About Me:
 📈 I'm currently working as a DevSecOps<br>💪🏽 Focusing on collaborate with Open Source projects<br>🌱 I’m currently learning about Cloud and Backend<br>🦀 Rust lover ❤️<br>⚡ Find me doing kickflips on the streets!<br><br>
