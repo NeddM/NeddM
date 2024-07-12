@@ -1,12 +1,13 @@
 <img align="left" src="/kaneda.gif" style="margin-right: 20px; width: 80%;">
 
-📊 GitHub Stats:
+📊 GitHub Stats:<br>
 &#160; Account age: 2
-Commits: 2584
+Commits: 2586
 Repositories: 87
 Stars: 17
 Pull requests: 92
 
+<br>
 <br>
 
 # 💫 About Me:
