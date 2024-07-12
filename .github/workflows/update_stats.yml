@@ -20,8 +20,7 @@ jobs:
       - name: Generate README.md
         uses: teoxoy/profile-readme-stats@master
         with:
-          # token: ${{ secrets.USER_TOKEN }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.USER_TOKEN }}
 
       - name: Check Status
         run: |
