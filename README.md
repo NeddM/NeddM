@@ -5,11 +5,11 @@ Hi, my name is __Nedd__, a __DevOps Engineer__. Here are some stats:
 
 <br>
 
-- Account age: {{ ACCOUNT_AGE }}
-- Commits: {{ COMMITS }}
-- Repositories: {{ REPOSITORIES }}
-- Stars: {{ STARS }}
-- Pull requests: {{ PULL_REQUESTS }}
+- Account age: 2
+- Commits: 2575
+- Repositories: 87
+- Stars: 17
+- Pull requests: 92
 
 
 
