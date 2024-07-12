@@ -1,4 +1,4 @@
-<img align="left" src="g.com/originals/4b/29/ac/4b29ac154bbe9c684b0eb8ed0d0c46ee.gif">
+<img align="left" src="https://i.giphy.com/Z82D5oh1Ys33W.gif">
 
 # 💫 About Me:
 📈 I'm currently working as a DevSecOps<br>💪🏽 Focusing on collaborate with Open Source projects<br>🌱 I’m currently learning about Cloud and Backend<br>🦀 Rust lover ❤️<br>⚡ Find me doing kickflips on the streets!<br><br>
