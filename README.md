@@ -1,8 +1,8 @@
 <img align="left" src="/kaneda.gif" style="margin-right: 20px; width: 80%;">
 
 __📊 GitHub Stats:__<br><br>
-Account age: __2 years__<br>
-Commits: __3519__<br>
+Account age: __3 years__<br>
+Commits: __3523__<br>
 Repositories: __93__<br>
 Stars: __17__<br>
 Pull requests: __98__<br>
