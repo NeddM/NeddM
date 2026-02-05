@@ -2,8 +2,8 @@
 
 __📊 GitHub Stats:__<br><br>
 Account age: __4 years__<br>
-Commits: __11290__<br>
-Repositories: __165__<br>
+Commits: __11239__<br>
+Repositories: __163__<br>
 Stars: __23__<br>
 Pull requests: __657__<br>
 
